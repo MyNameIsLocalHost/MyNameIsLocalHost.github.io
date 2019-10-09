@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/qpp-8/qpp-8.github.io/static/css/main.f26711d4.chunk.css",
+    "main.js": "/qpp-8/qpp-8.github.io/static/js/main.d1e6f3b5.chunk.js",
+    "main.js.map": "/qpp-8/qpp-8.github.io/static/js/main.d1e6f3b5.chunk.js.map",
+    "runtime-main.js": "/qpp-8/qpp-8.github.io/static/js/runtime-main.afa1da4d.js",
+    "runtime-main.js.map": "/qpp-8/qpp-8.github.io/static/js/runtime-main.afa1da4d.js.map",
+    "static/js/2.3430d0d0.chunk.js": "/qpp-8/qpp-8.github.io/static/js/2.3430d0d0.chunk.js",
+    "static/js/2.3430d0d0.chunk.js.map": "/qpp-8/qpp-8.github.io/static/js/2.3430d0d0.chunk.js.map",
+    "index.html": "/qpp-8/qpp-8.github.io/index.html",
+    "precache-manifest.0536feaa26fabfb9c742913d0fe9e764.js": "/qpp-8/qpp-8.github.io/precache-manifest.0536feaa26fabfb9c742913d0fe9e764.js",
+    "service-worker.js": "/qpp-8/qpp-8.github.io/service-worker.js",
+    "static/css/main.f26711d4.chunk.css.map": "/qpp-8/qpp-8.github.io/static/css/main.f26711d4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afa1da4d.js",
+    "static/js/2.3430d0d0.chunk.js",
+    "static/css/main.f26711d4.chunk.css",
+    "static/js/main.d1e6f3b5.chunk.js"
+  ]
+}
